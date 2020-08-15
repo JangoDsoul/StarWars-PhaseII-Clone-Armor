@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <TraderKindDef>
+    <defName>JSDOrbital__PhaseII_Armor</defName>
+    <label>Kaminoan Phase II Armor Supplier</label>
+    <commonality>2</commonality>
+    <orbital>true</orbital>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>
+          <min>500000</min>
+          <max>1000000</max>
+        </countRange>
+      </li>
+	 <li Class="StockGenerator_SingleDef">
+		<thingDef>MedicineIndustrial</thingDef>
+		<price>Cheap</price>
+		<countRange>
+			<min>2000</min>
+			<max>3000</max>
+		</countRange>
+	</li>
+	 <li Class="StockGenerator_SingleDef">
+        <thingDef>MealSurvivalPack</thingDef>
+		<price>Cheap</price>
+        <countRange>
+          <min>2500</min>
+          <max>5000</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Plasteel</thingDef>
+        <countRange>
+          <min>1000</min>
+          <max>4000</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Cloth</thingDef>
+		<price>Cheap</price>
+        <countRange>
+          <min>4000</min>
+          <max>8000</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Synthread</thingDef>
+        <countRange>
+          <min>2000</min>
+          <max>6000</max>
+        </countRange>
+      </li>	  
+	  <li Class="StockGenerator_SingleDef">
+        <thingDef>Hyperweave</thingDef>
+		<price>Expensive</price>
+        <countRange>
+          <min>1000</min>
+          <max>4000</max>
+        </countRange>
+      </li>	 
+      <!--
+	        <li Class="StockGenerator_SingleDef">
+        <thingDef>ComponentIndustrial</thingDef>
+        <countRange>
+          <min>1500</min>
+          <max>3000</max>
+        </countRange>
+      </li>      
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>ComponentSpacer</thingDef>
+        <countRange>
+          <min>1000</min>
+          <max>2000</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Steel</thingDef>
+        <countRange>
+          <min>5000</min>
+          <max>8000</max>
+        </countRange>
+      </li>
+	  <li Class="StockGenerator_SingleDef">
+        <thingDef>WoodLog</thingDef>
+        <countRange>
+          <min>5000</min>
+          <max>8000</max>
+        </countRange>
+      </li>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>MedicineIndustrial</thingDef>
+				<countRange>
+					<min>2000</min>
+					<max>3000</max>
+				</countRange>
+			</li>
+			
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>Chemfuel</thingDef>
+				<countRange>
+					<min>2000</min>
+					<max>6000</max>
+				</countRange>
+			</li>-->
+			
+		  <!-- === -->
+	  
+	  <li Class="StockGenerator_Category">
+        <categoryDef>PhaseIIArmor_Standard</categoryDef>
+		<price>Cheap</price>
+        <thingDefCountRange>
+          <min>20</min>
+          <max>100</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>10</min>
+          <max>150</max>
+        </countRange>
+      </li>
+	  
+	  <li Class="StockGenerator_Category">
+        <categoryDef>PhaseIIHelmet_Standard</categoryDef>
+		<price>Cheap</price>
+        <thingDefCountRange>
+          <min>20</min>
+          <max>100</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>10</min>
+          <max>150</max>
+        </countRange>
+      </li>	  
+    </stockGenerators>
+	</TraderKindDef>
+</Defs>

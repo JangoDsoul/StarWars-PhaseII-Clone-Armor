@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 187th Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_187th_Helmet</defName>
+		<label>Phase II 187th Helmet</label>		
+	<graphicData>
+      <texPath>Things/Groups/187thLegion/Helmet/PhaseII187thHelmet/PhaseII_187th_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/187thLegion/Helmet/PhaseII187thHelmet/PhaseII_187th_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_187th</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 187th Commander Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_187th_Commander_Helmet</defName>
+		<label>Phase II 187th Commander Helmet</label>		
+	<graphicData>
+      <texPath>Things/Groups/187thLegion/Helmet/PhaseII187thCommanderHelmet/PhaseII_187th_Commander_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/187thLegion/Helmet/PhaseII187thCommanderHelmet/PhaseII_187th_Commander_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_187th</li>
+	</thingCategories>
+  </ThingDef>
+
+</Defs>

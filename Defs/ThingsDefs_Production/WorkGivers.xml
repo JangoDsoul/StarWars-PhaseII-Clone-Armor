@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- ============= Smithing ============= -->
+
+  <WorkGiverDef>
+    <defName>DoBillsMakePhaseIIArmor</defName>
+    <label>make armor</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Smithing</workType>
+    <priorityInType>109</priorityInType>
+    <fixedBillGiverDefs>
+      <li>Kaminoan_Fabricatior_Armor</li>
+    </fixedBillGiverDefs>
+    <verb>fabricating things</verb>
+    <gerund>fabricating things at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>DoBillsMakePhaseIIHelmet</defName>
+    <label>make armor</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Smithing</workType>
+    <priorityInType>108</priorityInType>
+    <fixedBillGiverDefs>
+      <li>Kaminoan_Fabricatior_Helmet</li>
+    </fixedBillGiverDefs>
+    <verb>fabricating things</verb>
+    <gerund>fabricating things at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+</Defs>

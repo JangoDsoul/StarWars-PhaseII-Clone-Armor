@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II GalacticMarines Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_GalacticMarines_Armor</defName>
+		<label>Phase II 21st Galactic Marines Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/21stNovaCorps/Armor/PhaseIIGalacticMarinesArmor/PhaseII_GalacticMarines_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/21stNovaCorps/Armor/PhaseIIGalacticMarinesArmor/PhaseII_GalacticMarines_Armor</wornGraphicPath>
+	</apparel>
+	<statBases>
+		<Insulation_Cold>100</Insulation_Cold>
+		<Insulation_Heat>100</Insulation_Heat>
+    </statBases>
+	<equippedStatOffsets>
+		<MoveSpeed>0.10</MoveSpeed>
+		<PsychicSensitivity>-0.10</PsychicSensitivity>
+		<ToxicSensitivity>-0.10</ToxicSensitivity>
+		<PainShockThreshold>0.05</PainShockThreshold>
+	</equippedStatOffsets>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_21st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Bacara Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_Bacara_Armor</defName>
+		<label>Phase II 21st Bacara Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/21stNovaCorps/Armor/PhaseIIBacaraArmor/PhaseII_Bacara_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/21stNovaCorps/Armor/PhaseIIBacaraArmor/PhaseII_Bacara_Armor</wornGraphicPath>
+	</apparel>
+	<statBases>
+		<Insulation_Cold>100</Insulation_Cold>
+		<Insulation_Heat>100</Insulation_Heat>
+    </statBases>
+	<equippedStatOffsets>
+		<MoveSpeed>0.10</MoveSpeed>
+		<PsychicSensitivity>-0.10</PsychicSensitivity>
+		<ToxicSensitivity>-0.10</ToxicSensitivity>
+		<PainShockThreshold>0.05</PainShockThreshold>
+	</equippedStatOffsets>	
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_21st</li>
+	</thingCategories>
+  </ThingDef>
+
+
+
+
+</Defs>

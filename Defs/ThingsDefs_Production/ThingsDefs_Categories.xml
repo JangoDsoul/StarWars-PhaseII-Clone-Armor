@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!--=== Phase II Armor ===-->
+  
+    <ThingCategoryDef>
+    <defName>PhaseIIArmor_Main</defName>
+    <label>Phase II Armor</label>
+    <parent>Apparel</parent>
+  </ThingCategoryDef>
+  
+    <ThingCategoryDef>
+    <defName>PhaseIIArmor_Standard</defName>
+    <label>Phase II Standard Armor</label>
+    <parent>PhaseIIArmor_Main</parent>
+  </ThingCategoryDef>
+  
+   <!--=== Phase II Helmet ===-->
+  <ThingCategoryDef>
+    <defName>PhaseIIHelmet_Main</defName>
+    <label>Phase II Helmet</label>
+    <parent>Apparel</parent>
+  </ThingCategoryDef>
+  
+  <ThingCategoryDef>
+    <defName>PhaseIIHelmet_Standard</defName>
+    <label>Phase II Standard Helmet</label>
+    <parent>PhaseIIHelmet_Main</parent>
+  </ThingCategoryDef>
+  
+    <!--=== Phase II Battalion Armor ===-->
+
+   <ThingCategoryDef>
+    <defName>CoruscantGuardArmor</defName>
+    <label>Coruscant Guard Armor</label>
+    <parent>PhaseIIArmor_Main</parent>
+  </ThingCategoryDef> 
+
+  <ThingCategoryDef>
+    <defName>PhaseIIBattalionArmor_21st</defName>
+    <label>21st Corps Armor</label>
+    <parent>PhaseIIArmor_Main</parent>
+  </ThingCategoryDef>
+
+  <ThingCategoryDef>
+    <defName>PhaseIIBattalionArmor_41st</defName>
+    <label>41st Elite Armor</label>
+    <parent>PhaseIIArmor_Main</parent>
+  </ThingCategoryDef>
+  
+  <ThingCategoryDef>
+    <defName>PhaseIIBattalionArmor_104st</defName>
+    <label>104th Battalion Armor</label>
+    <parent>PhaseIIArmor_Main</parent>
+  </ThingCategoryDef>
+  
+   <ThingCategoryDef>
+    <defName>PhaseIIBattalionArmor_187th</defName>
+    <label>187th Battalion Armor</label>
+    <parent>PhaseIIArmor_Main</parent>
+  </ThingCategoryDef> 
+
+   <ThingCategoryDef>
+    <defName>PhaseIIBattalionArmor_212th</defName>
+    <label>212th Attack Battalion Armor</label>
+    <parent>PhaseIIArmor_Main</parent>
+  </ThingCategoryDef>   
+
+   <ThingCategoryDef>
+    <defName>PhaseIIBattalionArmor_327th</defName>
+    <label>327th Battalion Armor</label>
+    <parent>PhaseIIArmor_Main</parent>
+  </ThingCategoryDef> 
+
+   <ThingCategoryDef>
+    <defName>PhaseIIBattalionArmor_332nd</defName>
+    <label>332nd Battalion Armor</label>
+    <parent>PhaseIIArmor_Main</parent>
+  </ThingCategoryDef> 
+
+   <ThingCategoryDef>
+    <defName>PhaseIIBattalionArmor_501st</defName>
+    <label>501st Battalion Armor</label>
+    <parent>PhaseIIArmor_Main</parent>
+  </ThingCategoryDef> 
+
+
+    <!--=== Phase II Battalion Helmet ===-->
+
+  <ThingCategoryDef>
+    <defName>CoruscantGuardHelmet</defName>
+    <label>Coruscant Guard Helmet</label>
+    <parent>PhaseIIHelmet_Main</parent>
+  </ThingCategoryDef>
+
+  <ThingCategoryDef>
+    <defName>PhaseIIBattalionHelmet_21st</defName>
+    <label>21st Corps Helmet</label>
+    <parent>PhaseIIHelmet_Main</parent>
+  </ThingCategoryDef>
+
+  <ThingCategoryDef>
+    <defName>PhaseIIBattalionHelmet_41st</defName>
+    <label>41st Elite Helmet</label>
+    <parent>PhaseIIHelmet_Main</parent>
+  </ThingCategoryDef>
+
+  <ThingCategoryDef>
+    <defName>PhaseIIBattalionHelmet_104st</defName>
+    <label>104th Battalion Helmet</label>
+    <parent>PhaseIIHelmet_Main</parent>
+  </ThingCategoryDef>
+
+   <ThingCategoryDef>
+    <defName>PhaseIIBattalionHelmet_187th</defName>
+    <label>187th Battalion Helmet</label>
+    <parent>PhaseIIHelmet_Main</parent>
+  </ThingCategoryDef> 
+  
+   <ThingCategoryDef>
+    <defName>PhaseIIBattalionHelmet_212th</defName>
+    <label>212th Attack Battalion Helmet</label>
+    <parent>PhaseIIHelmet_Main</parent>
+  </ThingCategoryDef>   
+  
+   <ThingCategoryDef>
+    <defName>PhaseIIBattalionHelmet_327th</defName>
+    <label>327th Battalion Helmet</label>
+    <parent>PhaseIIHelmet_Main</parent>
+  </ThingCategoryDef>   
+
+   <ThingCategoryDef>
+    <defName>PhaseIIBattalionHelmet_332nd</defName>
+    <label>332nd Battalion Helmet</label>
+    <parent>PhaseIIHelmet_Main</parent>
+  </ThingCategoryDef>   
+  
+     <ThingCategoryDef>
+    <defName>PhaseIIBattalionHelmet_501st</defName>
+    <label>501st Battalion Helmet</label>
+    <parent>PhaseIIHelmet_Main</parent>
+  </ThingCategoryDef>   
+
+</Defs>

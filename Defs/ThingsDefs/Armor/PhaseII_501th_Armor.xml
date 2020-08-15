@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 501th Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_501st_Armor</defName>
+		<label>Phase II 501st Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/501stBattalion/Armor/PhaseII501thArmor/PhaseII_501th_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/501stBattalion/Armor/PhaseII501thArmor/PhaseII_501th_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_501st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 501th Rex Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_501st_Rex_Armor</defName>
+		<label>Phase II 501st Rex Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/501stBattalion/Armor/PhaseIIRexArmor/PhaseII_501th_Rex_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/501stBattalion/Armor/PhaseIIRexArmor/PhaseII_501th_Rex_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_501st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Fives Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_501st_Fives_Armor</defName>
+		<label>Phase II 501st Fives Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/501stBattalion/Armor/PhaseIIFivesArmor/PhaseII_Fives_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/501stBattalion/Armor/PhaseIIFivesArmor/PhaseII_Fives_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_501st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Hardcase Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_501st_Hardcase_Armor</defName>
+		<label>Phase II 501st Hardcase Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/501stBattalion/Armor/PhaseIIHardcaseArmor/PhaseII_501th_Hardcase_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/501stBattalion/Armor/PhaseIIHardcaseArmor/PhaseII_501th_Hardcase_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_501st</li>
+	</thingCategories>
+  </ThingDef>
+
+</Defs>

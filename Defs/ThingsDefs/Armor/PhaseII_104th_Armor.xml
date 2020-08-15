@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 104th Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_104th_Armor</defName>
+		<label>Phase II 104th Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/104thBattalion/Armor/PhaseII104thArmor/PhaseII_104th_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/104thBattalion/Armor/PhaseII104thArmor/PhaseII_104th_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_104st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 104th Wolffe Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_104th_Wolffe_Armor</defName>
+		<label>Phase II 104th Wolffe Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/104thBattalion/Armor/PhaseIIWolffeArmor/PhaseII_Wolffe_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/104thBattalion/Armor/PhaseIIWolffeArmor/PhaseII_Wolffe_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_104st</li>
+	</thingCategories>
+  </ThingDef>
+
+</Defs>

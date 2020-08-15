@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[JDS] Star Wars Phase II Clone Armor</name>
+	<author>JangoD'soul</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>		
+	</supportedVersions>
+	<packageId>JangoDsoul.StarWars.PIICAS</packageId>
+	<description>
+This mod add StarWar:clone war armor set 
+
+Note: no CE patch 
+
+[h1]Features:[/h1]
+ -Phase II Standard Armor Set
+ -Phase II Scout Armor Set
+ -Phase II Cold Assault Armor Set
+ -Phase II Pilot Suit Set
+ -Phase II Desert Armor Set
+ -Phase II ARF Helmet
+ -Phase II AT-RT Helmet
+ -Phase II BARC Helmet
+ -Phase II Engineer Helmet
+ -Phase II Heavy Helmet
+ -Phase II Ops Helmet
+ -Phase II Paratrooper Helmet
+ -Coruscant Guard Armor Set
+ -104th Battalion Armor Set
+ -21st Nova Corps Armor Set
+ -187th Attack Battalion Armor Set
+ -501st Battalion Armor Set
+ -212th Attack Battalion Armor Set
+ -41st Elite Corps
+ -327th Star Corps
+ -332nd Battalion
+
+
+[h1]Crafting Requirements:[/h1]
+-Craftable
+-Research Requirements: Phase II Clone Armor
+
+[h1]Plans:[/h1]
+-To add Phase II  Patterns 
+
+[h1]Credits:[/h1]
+-Preview art inspires by "Star Wars - Factions"
+	
+	</description>
+</ModMetaData>

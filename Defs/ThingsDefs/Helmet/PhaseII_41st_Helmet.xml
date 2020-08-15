@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 41st Helmet 
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_41th_Helmet</defName>
+		<label>Phase II 41th Helmet</label>		
+	<graphicData>
+      <texPath>Things/Groups/41stEliteCorps/Helmet/PhaseII41stHelmet/PhaseII_187th_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/187thLegion/Helmet/PhaseII187thHelmet/PhaseII_187th_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_187th</li>
+	</thingCategories>
+  </ThingDef> -->
+
+<!-- Phase II 41st Gree Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_41st_Gree_Helmet</defName>
+		<label>Phase II 41st Gree Helmet</label>	
+	<graphicData>
+      <texPath>Things/Groups/41stEliteCorps/Helmet/PhaseII41stGreeHelmet/PhaseII_41st_Gree_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/41stEliteCorps/Helmet/PhaseII41stGreeHelmet/PhaseII_41st_Gree_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_187th</li>
+	</thingCategories>
+  </ThingDef>
+  
+<!-- Phase II 41st Camo Helmet -->
+   <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_41st_Camo_Helmet</defName>
+		<label>Phase II 41st Camo Helmet</label>	
+	<graphicData>
+      <texPath>Things/Groups/41stEliteCorps/Helmet/PhaseII41stCamoHelmet/PhaseII_41st_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/41stEliteCorps/Helmet/PhaseII41stCamoHelmet/PhaseII_41st_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_187th</li>
+	</thingCategories>
+  </ThingDef>  
+
+<!-- Phase II 41st Scout Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_41st_Scout_Helmet</defName>
+		<label>Phase II 41st Scout Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/41stEliteCorps/Helmet/PhaseII41stScoutHelmet/PhaseII_41st_Scout_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/41stEliteCorps/Helmet/PhaseII41stScoutHelmet/PhaseII_41st_Scout_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_187th</li>
+	</thingCategories>
+  </ThingDef>  
+  
+</Defs>

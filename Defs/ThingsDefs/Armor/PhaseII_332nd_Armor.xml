@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 332nd Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_332nd_Armor</defName>
+		<label>Phase II 332nd Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/332ndBattalion/Armor/PhaseII332ndArmor/PhaseII_332th_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/332ndBattalion/Armor/PhaseII332ndArmor/PhaseII_332th_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_332nd</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 332nd Two Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_332nd_Two_Armor</defName>
+		<label>Phase II 332nd Two Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/332ndBattalion/Armor/PhaseII332ndArmor2/PhaseII_332th_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/332ndBattalion/Armor/PhaseII332ndArmor2/PhaseII_332th_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_332nd</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 332nd Three Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_332nd_Three_Armor</defName>
+		<label>Phase II 332nd Three Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/332ndBattalion/Armor/PhaseII332ndArmor3/PhaseII_332th_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/332ndBattalion/Armor/PhaseII332ndArmor3/PhaseII_332th_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_332nd</li>
+	</thingCategories>
+  </ThingDef>
+
+</Defs>

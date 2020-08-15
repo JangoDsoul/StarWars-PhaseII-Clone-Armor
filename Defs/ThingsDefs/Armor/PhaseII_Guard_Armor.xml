@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II Shock Trooper Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_Guard_ShockTrooper_Armor</defName>
+		<label>Phase II Shock Trooper Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/CoruscantGuard/Armor/PhaseIIShockTroopersArmor/PhaseII_ShockTrooper_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/CoruscantGuard/Armor/PhaseIIShockTroopersArmor/PhaseII_ShockTrooper_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>CoruscantGuardArmor</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Fox Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_Guard_Fox_Armor</defName>
+		<label>Phase II Fox Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/CoruscantGuard/Armor/PhaseIIFoxArmor/PhaseII_Fox_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/CoruscantGuard/Armor/PhaseIIFoxArmor/PhaseII_Fox_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>CoruscantGuardArmor</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Thire Armor -->
+   <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_Guard_Thire_Armor</defName>
+		<label>Phase II Thire Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/CoruscantGuard/Armor/PhaseIIThireArmor/PhaseII_Thire_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/CoruscantGuard/Armor/PhaseIIThireArmor/PhaseII_Thire_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>CoruscantGuardArmor</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Hound Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_Guard_Hound_Armor</defName>
+		<label>Phase II Hound Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/CoruscantGuard/Armor/PhaseIIHoundArmor/PhaseII_Hound_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/CoruscantGuard/Armor/PhaseIIHoundArmor/PhaseII_Hound_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>CoruscantGuardArmor</li>
+	</thingCategories>
+  </ThingDef>
+
+</Defs>

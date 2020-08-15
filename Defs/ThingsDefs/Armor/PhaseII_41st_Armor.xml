@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+<!-- Phase II 41st Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_41st_Armor</defName>
+		<label>Phase II 41st Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/41stEliteCorps/Armor/PhaseII41stArmor/PhaseII_41st_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/41stEliteCorps/Armor/PhaseII41stArmor/PhaseII_41st_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_41st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 41st Gree Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_41st_Gree_Armor</defName>
+		<label>Phase II 41st Gree Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/41stEliteCorps/Armor/PhaseII41stGreeArmor/PhaseII_41st_Gree_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/41stEliteCorps/Armor/PhaseII41stGreeArmor/PhaseII_41st_Gree_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_41st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 41st Camo Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_41st_Camo_Armor</defName>
+		<label>Phase II 41st Camo Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/41stEliteCorps/Armor/PhaseII41stCamoArmor/PhaseII_41st_Camo_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/41stEliteCorps/Armor/PhaseII41stCamoArmor/PhaseII_41st_Camo_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_41st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 41st Scout Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_41st_Scout_Armor</defName>
+		<label>PhaseII 41st Scout Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/41stEliteCorps/Armor/PhaseII41stScoutArmor/PhaseII_41st_Scout_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/41stEliteCorps/Armor/PhaseII41stScoutArmor/PhaseII_41st_Scout_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_41st</li>
+	</thingCategories>
+  </ThingDef>
+
+
+</Defs>

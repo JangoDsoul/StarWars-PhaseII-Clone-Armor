@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II Standard Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Standard_Helmet</defName>
+		<label>Phase II Standard Helmet</label>
+	<graphicData>
+      <texPath>Things/Helmet/PhaseIIStandard/PhaseII_Standard_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIStandard/PhaseII_Standard_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Pilot Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Pilot_Helmet</defName>
+		<label>Phase II Pilot Helmet</label>	
+	<graphicData>
+      <texPath>Things/Helmet/PhaseIIPilotHelmet/PhaseII_Pilot_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIPilotHelmet/PhaseII_Pilot_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Paratrooper Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Paratrooper_Helmet</defName>
+		<label>Phase II Paratrooper Helmet</label>
+	<graphicData>
+      <texPath>Things/Helmet/PhaseIIParatrooperHelmet/PhaseII_Paratrooper_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIParatrooperHelmet/PhaseII_Paratrooper_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Ops Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Ops_Helmet</defName>
+		<label>Phase II Ops Helmet</label>
+	<graphicData>
+      <texPath>Things/Helmet/PhaseIIOPSHelmet/PhaseII_Ops_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIOPSHelmet/PhaseII_Ops_Helmet</wornGraphicPath>
+    </apparel>
+	<equippedStatOffsets>
+		<PsychicSensitivity>1.00</PsychicSensitivity>
+		<MentalBreakThreshold>0.80</MentalBreakThreshold>
+	</equippedStatOffsets>	
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef>
+  
+<!-- Phase II Heavy Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Heavy_Helmet</defName>
+		<label>Phase II Heavy Helmet</label>  
+ 	<graphicData>
+      <texPath>Things/Helmet/PhaseIIHeavyHelmet/PhaseII_Heavy_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIHeavyHelmet/PhaseII_Heavy_Helmet</wornGraphicPath>
+    </apparel>
+		<equippedStatOffsets>
+		<PainShockThreshold>.70</PainShockThreshold>
+	</equippedStatOffsets>
+	<thingCategories> 
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Engineer Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Engineer_Helmet</defName>
+		<label>Phase II Engineer Helmet</label>
+ 	<graphicData>
+      <texPath>Things/Helmet/PhaseIIEngineerHelmet/PhaseII_Engineer_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIEngineerHelmet/PhaseII_Engineer_Helmet</wornGraphicPath>
+    </apparel>
+	<equippedStatOffsets>
+		<ConstructionSpeed>0.30</ConstructionSpeed>
+		<ConstructSuccessChance>0.60</ConstructSuccessChance>
+		<FixBrokenDownBuildingSuccessChance>.85</FixBrokenDownBuildingSuccessChance>
+	</equippedStatOffsets>
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef>
+  
+<!-- Phase II Desert Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Desert_Helmet</defName>
+		<label>Phase II Desert Helmet</label>  
+ 	<graphicData>
+      <texPath>Things/Helmet/PhaseIIDesertHelmet/PhaseII_Desert_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIDesertHelmet/PhaseII_Desert_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef> 
+ 
+<!-- Phase II Cold AssAult Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_ColdAssault_Helmet</defName>
+		<label>Phase II Cold Asssault Helmet</label> 
+  	<graphicData>
+      <texPath>Things/Helmet/PhaseIIColdAssaultHelmet/PhaseII_ColdAssault_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIColdAssaultHelmet/PhaseII_ColdAssault_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef> 
+  
+<!-- Phase II BARC Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_BARC_Helmet</defName>
+		<label>Phase II BARC Helmet</label>
+  	<graphicData>
+      <texPath>Things/Helmet/PhaseIIBARCHelmet/PhaseII_BARC_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIBARCHelmet/PhaseII_BARC_Helmet</wornGraphicPath>
+    </apparel>
+	<equippedStatOffsets>
+		<SocialImpact>0.20</SocialImpact>
+	</equippedStatOffsets>
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef> 
+  
+<!-- Phase II AT-RT Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_AT-RT_Helmet</defName>
+		<label>Phase II AT-RT Helmet</label>
+  	<graphicData>
+      <texPath>Things/Helmet/PhaseIIAT-RTHelmet/PhaseII_AT-RT_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIAT-RTHelmet/PhaseII_AT-RT_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef> 
+
+<!-- Phase II ARF Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_ARF_Helmet</defName>
+		<label>Phase II ARF Helmet</label>
+  	<graphicData>
+      <texPath>Things/Helmet/PhaseIIARFHelmet/PhaseII_ARF_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIARFHelmet/PhaseII_ARF_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef> 
+ 
+<!-- Phase II ARC1 Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_ARC1_Helmet</defName>
+		<label>Phase II ARC1 Helmet</label>
+  	<graphicData>
+      <texPath>Things/Helmet/PhaseIIARC1Helmet/PhaseII_ARC1_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaseIIARC1Helmet/PhaseII_ARC1_Helmet</wornGraphicPath>
+    </apparel>
+	<equippedStatOffsets>
+		<ShootingAccuracyPawn>0.45</ShootingAccuracyPawn>
+		<NegotiationAbility>0.15</NegotiationAbility>
+	</equippedStatOffsets>	
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef>  
+ 
+<!-- Phase II Scout Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Scout_Helmet</defName>
+		<label>Phase II Scout Helmet</label>
+  	<graphicData>
+      <texPath>Things/Helmet/PhaesIIScoutHelmet/PhaseII_scout_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/PhaesIIScoutHelmet/PhaseII_scout_Helmet</wornGraphicPath>
+    </apparel>
+	<equippedStatOffsets>
+		<ShootingAccuracyPawn>0.50</ShootingAccuracyPawn>
+		<MoveSpeed>0.10</MoveSpeed>
+		<HuntingStealth>.75</HuntingStealth>
+	</equippedStatOffsets>
+	<thingCategories>
+		<li>PhaseIIHelmet_Standard</li>
+	</thingCategories>
+  </ThingDef>   
+ 
+</Defs>

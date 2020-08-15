@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II Standard Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_Standard_Armor</defName>
+		<label>Phase II Standard Armor</label>
+	<graphicData>
+      <texPath>Things/Armor/PhaseIIStandardArmor/PhaseII_Standard_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Armor/PhaseIIStandardArmor/PhaseII_Standard_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIArmor_Standard</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II scout Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_Scout_Armor</defName>
+		<label>Phase II Scout Armor</label>
+	<graphicData>
+      <texPath>Things/Armor/PhaseIIScoutArmor/PhaseII_Scout_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Armor/PhaseIIScoutArmor/PhaseII_Scout_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIArmor_Standard</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Pilot Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_Pilot_Suit</defName>
+		<label>Phase II Pilot Suit</label>
+	<graphicData>
+      <texPath>Things/Armor/PhaseIIPilotSuit/PhaseII_Pilot_Suit</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Armor/PhaseIIPilotSuit/PhaseII_Pilot_Suit</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIArmor_Standard</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Desert Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_Desert_Armor</defName>
+		<label>Phase II Desert Armor</label>
+	<graphicData>
+      <texPath>Things/Armor/PhaseIIDesertArmor/PhaseII_Desert_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Armor/PhaseIIDesertArmor/PhaseII_Desert_Armor</wornGraphicPath>
+	</apparel>
+	<statBases>
+		<Insulation_Heat>500</Insulation_Heat>
+    </statBases>
+	<costList>
+		<Hyperweave>10</Hyperweave>
+    </costList>
+	<thingCategories>
+		<li>PhaseIIArmor_Standard</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Cold Assault Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_ColdAssault_Armor</defName>
+		<label>Phase II Cold Assault Armor</label>
+	<graphicData>
+      <texPath>Things/Armor/PhaseIIColdAssaultArmor/PhaseII_ColdAssault_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Armor/PhaseIIColdAssaultArmor/PhaseII_ColdAssault_Armor</wornGraphicPath>
+	</apparel>
+    <statBases>
+		<Insulation_Cold>600</Insulation_Cold>
+    </statBases>
+	<costList>
+	    <Hyperweave>10</Hyperweave>
+    </costList>
+	<thingCategories>
+		<li>PhaseIIArmor_Standard</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II ARC1 Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_ARC1_Armor</defName>
+		<label>Phase II Standard ARC1 Armor</label>
+	<graphicData>
+      <texPath>Things/Armor/ARC1Armor/PhaseII_ARC1_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Armor/ARC1Armor/PhaseII_ARC1_Armor</wornGraphicPath>
+	</apparel>
+	<statBases>
+		<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+		<ArmorRating_Blunt>0.50</ArmorRating_Blunt>
+		<ArmorRating_Heat>1.50</ArmorRating_Heat>
+    </statBases>
+	<costList>
+	    <Hyperweave>10</Hyperweave>
+    </costList>
+	<thingCategories>
+		<li>PhaseIIArmor_Standard</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II ARC2 Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_ARC2_Armor</defName>
+		<label>Phase II Standard ARC2 Armor</label>
+	<graphicData>
+      <texPath>Things/Armor/ARC2Armor/PhaseII_ARC2_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Armor/ARC2Armor/PhaseII_ARC2_Armor</wornGraphicPath>
+	</apparel>
+	<statBases>
+		<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+		<ArmorRating_Blunt>0.50</ArmorRating_Blunt>
+		<ArmorRating_Heat>1.50</ArmorRating_Heat>
+    </statBases>
+	<costList>
+	    <Hyperweave>10</Hyperweave>
+    </costList>
+	<thingCategories>
+		<li>PhaseIIArmor_Standard</li>
+	</thingCategories>
+  </ThingDef>
+  
+<!-- Phase II ARC3 Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_ARC3_Armor</defName>
+		<label>Phase II Standard ARC3 Armor</label>
+	<graphicData>
+      <texPath>Things/Armor/ARC3Armor/PhaseII_ARC3_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Armor/ARC3Armor/PhaseII_ARC3_Armor</wornGraphicPath>
+	</apparel>
+	<statBases>
+		<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+		<ArmorRating_Blunt>0.50</ArmorRating_Blunt>
+		<ArmorRating_Heat>1.50</ArmorRating_Heat>
+    </statBases>
+	<costList>
+	    <Hyperweave>10</Hyperweave>
+    </costList>
+	<thingCategories>
+		<li>PhaseIIArmor_Standard</li>
+	</thingCategories>
+  </ThingDef>  
+  
+</Defs>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+ <!-- Phase II 332nd Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_332nd_Helmet</defName>
+		<label>Phase II 332nd Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/332ndBattalion/Helmet/PhaseII332ndHelmet/PhaseII_332nd_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/332ndBattalion/Helmet/PhaseII332ndHelmet/PhaseII_332nd_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_332nd</li>
+	</thingCategories>
+  </ThingDef>
+
+ <!-- Phase II 332nd Two Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_332nd_Two_Helmet</defName>
+		<label>Phase II 332nd Two Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/332ndBattalion/Helmet/PhaseII332ndHelmet2/PhaseII_332nd_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/332ndBattalion/Helmet/PhaseII332ndHelmet2/PhaseII_332nd_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_332nd</li>
+	</thingCategories>
+  </ThingDef>
+  
+ <!-- Phase II 332nd Three Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_332nd_Three_Helmet</defName>
+		<label>Phase II 332nd Three Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/332ndBattalion/Helmet/PhaseII332ndHelmet3/PhaseII_332nd_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/332ndBattalion/Helmet/PhaseII332ndHelmet3/PhaseII_332nd_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_332nd</li>
+	</thingCategories>
+  </ThingDef>  
+
+ <!-- Phase II 332nd Four Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_332nd_Four_Helmet</defName>
+		<label>Phase II 332nd Four Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/332ndBattalion/Helmet/PhaseII332ndHelmet4/PhaseII_332nd_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/332ndBattalion/Helmet/PhaseII332ndHelmet4/PhaseII_332nd_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_332nd</li>
+	</thingCategories>
+  </ThingDef>  
+</Defs>

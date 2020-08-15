@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II Galactic Marines Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_GalacticMarines_Helmet</defName>
+		<label>Phase II 21st Galactic Marines Helmet</label>
+		<description>Created by Kaminoan armorsmiths for the clone troopers of the Galactic Republic</description>	
+	<graphicData>
+      <texPath>Things/Groups/21stNovaCorps/Helmet/PhaesIIGalacticMarinesHelmet/PhaseII_GalacticMarines_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/21stNovaCorps/Helmet/PhaesIIGalacticMarinesHelmet/PhaseII_GalacticMarines_Helmet</wornGraphicPath>
+    </apparel>
+	<equippedStatOffsets>
+		<SocialImpact>0.20</SocialImpact>
+		<ToxicSensitivity>-0.80</ToxicSensitivity>
+		<PsychicSensitivity>-0.05</PsychicSensitivity>
+	</equippedStatOffsets>
+	<costList>
+	    <Hyperweave>5</Hyperweave>
+	</costList>	
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_21st</li>
+	</thingCategories>
+  </ThingDef>
+
+</Defs>

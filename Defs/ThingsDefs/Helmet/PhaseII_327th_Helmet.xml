@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 327th Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_327th_Helmet</defName>
+		<label>Phase II 327th Helmet</label>		
+	<graphicData>
+      <texPath>Things/Groups/327thBattalion/Helmet/PhaseII327thHelmet/PhaseII_327th_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/327thBattalion/Helmet/PhaseII327thHelmet/PhaseII_327th_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_327th</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 327th Bly Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_327th_Bly_Helmet</defName>
+		<label>Phase II 327th Bly Helmet</label>		
+	<graphicData>
+      <texPath>Things/Groups/327thBattalion/Helmet/PhaseII327thBlyHelmet/PhaseII_327th_Bly_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/327thBattalion/Helmet/PhaseII327thBlyHelmet/PhaseII_327th_Bly_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_327th</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 327th Deviss Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_327th_Deviss_Helmet</defName>
+		<label>Phase II 327th Deviss Helmet</label>		
+	<graphicData>
+      <texPath>Things/Groups/327thBattalion/Helmet/PhaseII327thDevissHelmet/PhaseII_327th_Deviss_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/327thBattalion/Helmet/PhaseII327thDevissHelmet/PhaseII_327th_Deviss_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_327th</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 327th BARC Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_327th_BARC_Helmet</defName>
+		<label>Phase II 327th BARC Helmet</label>		
+	<graphicData>
+      <texPath>Things/Groups/327thBattalion/Helmet/PhaseII327thBARCHelmet/PhaseII_327th_BARC_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/327thBattalion/Helmet/PhaseII327thBARCHelmet/PhaseII_327th_BARC_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_327th</li>
+	</thingCategories>
+  </ThingDef>
+
+</Defs>

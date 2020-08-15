@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 212th Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_212th_Helmet</defName>
+		<label>Phase II 212th Helmet</label>	
+	<graphicData>
+      <texPath>Things/Groups/212thBattalion/Helmet/PhaseII212thHelmet/PhaseII_212th_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/212thBattalion/Helmet/PhaseII212thHelmet/PhaseII_212th_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_212th</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 212th Cody Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_212th_Cody_Helmet</defName>
+		<label>Phase II 212th Cody Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/212thBattalion/Helmet/PhaseII212thCodyHelmet/PhaseII_212th_Cody_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/212thBattalion/Helmet/PhaseII212thCodyHelmet/PhaseII_212th_Cody_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_212th</li>
+	</thingCategories>
+  </ThingDef>		
+		
+<!-- Phase II 212th Boil Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_212th_Boil_Helmet</defName>
+		<label>Phase II 212th Boil Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/212thBattalion/Helmet/PhaseII212thBoilHelmet/PhaseII_212th_Boil_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/212thBattalion/Helmet/PhaseII212thBoilHelmet/PhaseII_212th_Boil_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_212th</li>
+	</thingCategories>
+  </ThingDef>				
+		
+<!-- Phase II 212th Airborne Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_212th_Airborne_Helmet</defName>
+		<label>Phase II 212th Airborne Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/212thBattalion/Helmet/PhaseII212thAirborneHelmet/PhaseII_212th_Airborne_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/212thBattalion/Helmet/PhaseII212thAirborneHelmet/PhaseII_212th_Airborne_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_212th</li>
+	</thingCategories>
+  </ThingDef>			
+		
+</Defs>

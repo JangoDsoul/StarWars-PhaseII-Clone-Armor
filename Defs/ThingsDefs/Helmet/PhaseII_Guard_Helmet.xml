@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II Shock Trooper Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Guard_ShockTrooper_Helmet</defName>
+		<label>Phase II Shock Trooper Helmet</label>
+	<graphicData>
+		<texPath>Things/Groups/CoruscantGuard/Helmet/PhaseIIShockTroopersHelmet/PhaseII_ShockTrooper_Helmet</texPath>
+    </graphicData>
+    <apparel>
+	<wornGraphicPath>Things/Groups/CoruscantGuard/Helmet/PhaseIIShockTroopersHelmet/PhaseII_ShockTrooper_Helmet</wornGraphicPath>
+	</apparel>
+		<thingCategories>
+		<li>CoruscantGuardHelmet</li>
+	</thingCategories>
+  </ThingDef>
+	
+<!-- PhaseII Fox Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Guard_Fox_Helmet</defName>
+		<label>Phase II Fox Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/CoruscantGuard/Helmet/PhaseIIFoxHelmet/PhaseII_Fox_Helmet</texPath>
+    </graphicData>
+   <!--<equippedStatOffsets>
+		<SocialImpact>0.20</SocialImpact>
+	</equippedStatOffsets> -->
+    <apparel>
+		<wornGraphicPath>Things/Groups/CoruscantGuard/Helmet/PhaseIIFoxHelmet/PhaseII_Fox_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>CoruscantGuardHelmet</li>
+	</thingCategories>
+  </ThingDef>
+  
+<!-- Phase II Thire Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Guard_Thire_Helmet</defName>
+		<label>Phase II Thire Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/CoruscantGuard/Helmet/PhaseIIThireHelmet/PhaseII_Thire_Helmet</texPath>
+    </graphicData>
+   <!--<equippedStatOffsets>
+		<SocialImpact>0.20</SocialImpact>
+	</equippedStatOffsets> -->
+    <apparel>
+		<wornGraphicPath>Things/Groups/CoruscantGuard/Helmet/PhaseIIThireHelmet/PhaseII_Thire_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>CoruscantGuardHelmet</li>
+	</thingCategories>
+  </ThingDef>
+  
+<!-- Phase II Hound Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_Guard_Hound_Helmet</defName>
+		<label>Phase II Hound Helmet</label>  
+	<graphicData>
+      <texPath>Things/Groups/CoruscantGuard/Helmet/PhaseIIHoundHelmet/PhaseII_Hound_Helmet</texPath>
+    </graphicData>
+   <!--<equippedStatOffsets>
+		<SocialImpact>0.20</SocialImpact>
+	</equippedStatOffsets> -->
+    <apparel>
+		<wornGraphicPath>Things/Groups/CoruscantGuard/Helmet/PhaseIIHoundHelmet/PhaseII_Hound_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>CoruscantGuardHelmet</li>
+	</thingCategories>
+  </ThingDef>		
+</Defs>

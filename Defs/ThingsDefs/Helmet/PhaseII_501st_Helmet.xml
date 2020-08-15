@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 501th Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_501st_Helmet</defName>
+		<label>Phase II 501st Helmet</label>		
+	<graphicData>
+      <texPath>Things/Groups/501stBattalion/Helmet/PhaseII501thHelmet/PhaseII_501th_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/501stBattalion/Helmet/PhaseII501thHelmet/PhaseII_501th_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_501st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 501th Rex Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_501st_Rex_Helmet</defName>
+		<label>Phase II 501st Rex Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/501stBattalion/Helmet/PhaseIIRexHelmet/PhaseII_501th_Rex_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/501stBattalion/Helmet/PhaseIIRexHelmet/PhaseII_501th_Rex_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_501st</li>
+	</thingCategories>
+  </ThingDef>
+  
+<!-- Phase II 501th Fives Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_501st_Fives_Helmet</defName>
+		<label>Phase II 501st Fives Helmet</label>  
+	<graphicData>
+      <texPath>Things/Groups/501stBattalion/Helmet/PhaseIIFivesHelmet/PhaseII_501th_Fives_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/501stBattalion/Helmet/PhaseIIFivesHelmet/PhaseII_501th_Fives_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_501st</li>
+	</thingCategories>
+  </ThingDef>  
+  
+<!-- Phase II 501th Hardcase Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_501st_Hardcase_Helmet</defName>
+		<label>Phase II 501st Hardcase Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/501stBattalion/Helmet/PhaseIIHardCaseHelmet/PhaseII_501th_Hardcase_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/501stBattalion/Helmet/PhaseIIHardCaseHelmet/PhaseII_501th_Hardcase_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_501st</li>
+	</thingCategories>
+  </ThingDef> 
+		
+</Defs>

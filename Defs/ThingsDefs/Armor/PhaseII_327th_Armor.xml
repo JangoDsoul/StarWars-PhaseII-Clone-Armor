@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 327th Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_327th_Armor</defName>
+		<label>Phase II 327th Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/327thBattalion/Armor/PhaseII327thArmor/PhaseII_327th_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/327thBattalion/Armor/PhaseII327thArmor/PhaseII_327th_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_327th</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 327th Bly Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_327th_Bly_Armor</defName>
+		<label>Phase II 327th Bly Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/327thBattalion/Armor/PhaseII327thBlyArmor/PhaseII_327th_Bly_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/327thBattalion/Armor/PhaseII327thBlyArmor/PhaseII_327th_Bly_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_327th</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 327th Deviss Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_327th_Deviss_Armor</defName>
+		<label>Phase II 327th Deviss Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/327thBattalion/Armor/PhaseII327thDevissArmor/PhaseII_327th_Deviss_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/327thBattalion/Armor/PhaseII327thDevissArmor/PhaseII_327th_Deviss_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_327th</li>
+	</thingCategories>
+  </ThingDef>
+
+
+</Defs>

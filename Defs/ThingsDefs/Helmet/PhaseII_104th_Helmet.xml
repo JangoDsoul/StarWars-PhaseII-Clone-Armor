@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 104th Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_104th_Helmet</defName>
+		<label>Phase II 104th Helmet</label>	
+	<graphicData>
+      <texPath>Things/Groups/104thBattalion/Helmet/PhaseII104thHelmet/PhaseII_104th_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/104thBattalion/Helmet/PhaseII104thHelmet/PhaseII_104th_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_104st</li>
+	</thingCategories>
+  </ThingDef>
+  
+<!-- Phase II Wolffe Helmet -->  
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_104th_Wolffe_Helmet</defName>
+		<label>Phase II 104th Wolffe Helmet</label>	
+	<graphicData>
+      <texPath>Things/Groups/104thBattalion/Helmet/PhaseIIWolffeHelmet/PhaseII_Wolffe_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/104thBattalion/Helmet/PhaseIIWolffeHelmet/PhaseII_Wolffe_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_104st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Sinker Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_104th_Sinker_Helmet</defName>
+		<label>Phase II 104th Sinker Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/104thBattalion/Helmet/PhaseIISinkerHelmet/PhaseII_Sinker_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/104thBattalion/Helmet/PhaseIISinkerHelmet/PhaseII_Sinker_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_104st</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II Boost Helmet -->
+  <ThingDef ParentName="JDSArmorHelmetBase">
+		<defName>PhaseII_104th_Boost_Helmet</defName>
+		<label>Phase II 104th Boost Helmet</label>
+	<graphicData>
+      <texPath>Things/Groups/104thBattalion/Helmet/PhaseIIBoostHelmet/PhaseII_Boost_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/104thBattalion/Helmet/PhaseIIBoostHelmet/PhaseII_Boost_Helmet</wornGraphicPath>
+    </apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionHelmet_104st</li>
+	</thingCategories>
+  </ThingDef>
+
+</Defs> 

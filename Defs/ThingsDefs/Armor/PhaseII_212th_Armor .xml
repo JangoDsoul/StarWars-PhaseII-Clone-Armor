@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Phase II 212th Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_212th_Armor</defName>
+		<label>Phase II 212th Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/212thBattalion/Armor/PhaseII212thArmor/PhaseII_212th_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/212thBattalion/Armor/PhaseII212thArmor/PhaseII_212th_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_212th</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 212th Cody Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_212th_Cody_Armor</defName>
+		<label>Phase II 212th Cody Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/212thBattalion/Armor/PhaseII212thCodyArmor/PhaseII_212th_Cody_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/212thBattalion/Armor/PhaseII212thCodyArmor/PhaseII_212th_Cody_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_212th</li>
+	</thingCategories>
+  </ThingDef>
+
+<!-- Phase II 212th Airborne Armor -->
+  <ThingDef ParentName="JDSPhaseIIArmorHBase">
+		<defName>PhaseII_212th_Airborne_Armor</defName>
+		<label>Phase II 212th Airborne Armor</label>
+	<graphicData>
+      <texPath>Things/Groups/212thBattalion/Armor/PhaseII212thAirborneArmor/PhaseII_212th_Airborne_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Groups/212thBattalion/Armor/PhaseII212thAirborneArmor/PhaseII_212th_Airborne_Armor</wornGraphicPath>
+	</apparel>
+	<thingCategories>
+		<li>PhaseIIBattalionArmor_212th</li>
+	</thingCategories>
+  </ThingDef>
+
+</Defs>
